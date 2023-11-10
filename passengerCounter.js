@@ -3,6 +3,7 @@
 //Set the incremented value in the count part of the HTML
 //To achieve this, we define onclick attribute in Increment button and set its
 //value when clicked according to increment function.
+//Hello My name is Karan and I am editiing this to check the git connection.
 
 function increment() {
     let count = document.querySelector("#count").textContent;
